@@ -1,18 +1,29 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.3",
+"Version":"1.4",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 "Url":"https://github.com/MyGatherBk/oga/raw/main/vpn.zip" ,
 "Changelog":"
-พบไฟล์ใหม่ (27/2/2022)
->>>>>รองรับ ซิม TRUE-DTAC-AIS>>>>>
-☛ ☢ AISPLAY 64K☑
-☛ ☢ DTAC NOPRO☑
-☛ ☢ TRUE NOPRO☑
-✈✈JAPAN 10 SERVER ✹
-✈✈Korea 3 SERVER ✹
-✈✈Singapore 2 SERVER ✹
-✈✈UAS 1 SERVER ✹
+📬⚙️พบไฟล์ใหม่ 
+(1/3/2022)⏰🗂️
+⏩⏩⏩รองรับ ซิม TRUE-DTAC-AIS⏪⏪⏪
+👉☢️ AISPLAY 64K✅
+👉☢️ DTAC NOPRO✅
+👉☢️ TRUE NOPRO✅
+  🆘🔆Server🔆🆘
+🇯🇵🇯🇵 JAPAN  ✴️
+🇰🇷 Korea  ✴️
+🇸🇬 Singapore  ✴️
+🇺🇸 UAS  ✴️
+🇹🇭 Thailand ✴️
+🇲🇲 Myanmar ✴️
+🎁🎁🎁Vps to Vpn🎁🎁🎁
+Vpn บางมด🚀🚀🚀
+Vpn Cat🚀🚀🚀🚀
+Vpn ReadyIDC🚀🚀🚀
+
+ต้องมี internet ในการอัฟเดทไฟล์ Vpngate เซิร์ฟเวอร์ ดับบ่อย
+จัดทำโดย MyGatherBK🥳🥳
 ",
  
  
