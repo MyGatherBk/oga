@@ -1,26 +1,26 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.0.4",
+"Version":"1.0.5",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 "Url":"https://github.com/MyGatherBk/oga/raw/main/vpn.zip" ,
 "Changelog":"
 📬⚙️พบไฟล์ใหม่ 
-(3/3/2022)⏰🗂️
+(5/3/2022)⏰🗂️
 ⏩⏩⏩รองรับ TRUE-DTAC-AIS⏪⏪⏪
-👉☢️ AISPLAY 64K✅
+👉☢️ AISPLAY 64K✅Soon
 👉☢️ DTAC NOPRO✅ Soon
-👉☢️ TRUE NOPRO✅ Soon
-  🆘🔆Server🔆🆘
- Japan 15 server
- Thai 4 server
- Korean 5 server
- UAS 4 server
-###Vpngate เซิร์ฟเวอร์ ดับบ่อยๆ
+👉☢️ TRUE NOPRO✅ 
+  🆘🔆 Opervn Server App 🔆🆘
+ Japan IP Random
+ Thai IP Random
+ Korean IP Random
+ UAS IP Random
+###Vpngate เซิร์ฟเวอร์  IP Random
 🎁🎁🎁Vps to Vpn🎁🎁🎁
-Vpn บางมด🚀🚀🚀
-Vpn Cat🚀🚀🚀🚀
-Vpn ReadyIDC🚀🚀🚀
-Vpn inet🚀🚀🚀
+Vpn บางมด🚀🚀🚀✅ 
+Vpn Iris Cat🚀🚀🚀🚀 Soon
+Vpn ReadyIDC🚀🚀🚀 Soon
+Vpn inet🚀🚀🚀 Soon
 ต้องมี internet ในการอัฟเดทไฟล์ 
 จัดทำโดย MyGatherBK🥳🥳
 ",
