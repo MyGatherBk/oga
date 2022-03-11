@@ -1,11 +1,11 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.0.7",
+"Version":"1.0.8",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 "Url":"https://github.com/MyGatherBk/oga/raw/main/vpn.zip" ,
 "Changelog":"
  พบไฟล์ใหม่
-(7/3/2022)⏰
+(12/3/2022)⏰
 TRUE NOPRO✅
 AIS PLAY+128K✅
  ⭕Opervpn Server App⭕
