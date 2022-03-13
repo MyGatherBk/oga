@@ -1,21 +1,18 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.1.0",
+"Version":"1.1.1",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 "Url":"https://github.com/MyGatherBk/oga/raw/main/vpn.zip" ,
 "Changelog":"
  พบไฟล์ใหม่
-(12/3/2022)15:41⏰
+(13/3/2022)23:11⏰
 TRUE NOPRO✅
 AIS PLAY+128K✅
- ⭕Opervpn Server App⭕
- 🇯🇵Japan IP Random(IPR)
- 🇹🇭Thai IP Random(IPR)
- 🇰🇷Korean IP Random(IPR)
-☢️#Vpngate เซิร์ฟเวอร์  IP Random
-VPS TO VPN THAI
-🇹🇭BM1 TRUE THAI⭕(BM)
-🇹🇭BM1 ASI THAI⭕(BM)
+MYMAX1 THAI
+MYMAX2 THAI
+GATHER1 THAI
+GATHER2 THAI
+
 ",
  
  
