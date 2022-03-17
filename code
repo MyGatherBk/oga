@@ -1,18 +1,18 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.1.1",
+"Version":"1.1.2",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 "Url":"https://github.com/MyGatherBk/oga/raw/main/vpn.zip" ,
 "Changelog":"
  พบไฟล์ใหม่
-(13/3/2022)23:11⏰
+(17/3/2022)23:11⏰
 TRUE NOPRO✅
 AIS PLAY+128K✅
-MYMAX1 THAI
-MYMAX2 THAI
-GATHER1 THAI
-GATHER2 THAI
-
+ IP RANDOM (IPR)
+VPNGATE 
+THAI 
+JAPAN
+VPS BANGMOD
 ",
  
  
