@@ -1,15 +1,13 @@
 {
-//เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.1.4",
-//ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
+"Version":"1.1.5",
 "Url":"https://github.com/MyGatherBk/oga/raw/main/vpn.zip",
 "Changelog":"
  พบไฟล์ใหม่
-(2728/3/2022)12:06⏰
-Ais-BANGMOD✅
-Dtac-BANGMOD✅
-True-BANGMOD✅
-OPENVP SERVER RANDOM-IP✅
+(29/3/2022) 22:06 ⏰
+Ais-BANGMOD ✅
+Dtac-BANGMOD ✅
+True-BANGMOD ✅
+OPENVP SERVER RANDOM-IP ✅
 ",
  
  
